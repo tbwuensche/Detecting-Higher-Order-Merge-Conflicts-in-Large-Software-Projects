@@ -1,12 +1,12 @@
 # Detecting-Higher-Order-Merge-Conflicts-in-Large-Software-Projects
 
 ## Dependencies:
-python	3.7
-lxml	4.3.0
-numpy	1.16.0
-scipy	1.2.0
-tqdm	4.28.1
-ujson	1.35
+- python	3.7
+- lxml	4.3.0
+- numpy	1.16.0
+- scipy	1.2.0
+- tqdm	4.28.1
+- ujson	1.35
 
 ## Usage
 
